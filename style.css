@@ -1,6 +1,7 @@
 body{
 	background-image: url("electric vehicle.jpg");
 	background-size:cover;
+	background-repeat:no-repeat;
 }
 .this-form{
 	justify-content: : flex-end;
