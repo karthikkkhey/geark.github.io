@@ -1,0 +1,54 @@
+body{
+	background-image: url("electric vehicle.jpg");
+	background-size:cover;
+}
+.this-form{
+	justify-content: : flex-end;
+}
+/*.comp-name{
+	display:flex;
+	font-size:3rem;
+}*/
+h3{
+	color:white;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size:300%;
+	display: flex;
+	justify-content: center;
+	margin-top: 180px;
+	transition: all 1s ease-in;
+}
+h3:hover{
+	transform: scale(1.6);
+}
+
+.jockey{
+	color:yellow;
+	padding-right: 10px;
+	background-color:rgba(120,78,212,0.1);
+	font-size:150%;
+	font-weight: bold;
+	font-style: italic;
+	display: flex;
+	margin-top:25px;
+	margin-left:70px;
+}
+.btn-primary{
+	margin-left:70px;
+}
+.hobo{
+	border:2px solid lightblue;
+	background-color: lightblue;
+}
+.dropdown-item{
+	color:red;
+	border:2px solid black;
+	background-color: pink;
+}
+.dropdown-item:hover{
+	color:green;
+}
+.display-4{
+	background-color: yellow;
+}
